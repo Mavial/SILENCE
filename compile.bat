@@ -1,0 +1,1 @@
+pyinstaller --name "SILENCE" --add-data "./sound.wav;." .\SILENCE.py --icon=icon.ico --onefile --clean

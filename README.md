@@ -1,4 +1,5 @@
-# Scimia
+# SILENCE
+### System for Identifying Loud Environments and Neutralizing Conversation Effectively
 
 A tool to measure your microphone volume and play an alarm sound if you talk too loud.
 

@@ -1,5 +1,7 @@
 keyboard
+types-keyboard
 numpy
 termcolor
 sounddevice
 soundfile
+pyinstaller
