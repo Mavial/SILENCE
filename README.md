@@ -12,21 +12,14 @@ python -m pip install -r requirements.txt
 
 Then, just run the following command to start the program (or double click `Scimia.py`, if you have your Python configured to automatically run all `.py` extensions):
 ```
-python Scimia.py
+python SILENCE.py
 ```
 
-However, there is also a compiled binary in the `exe version` folder. You can run it by double clicking the `Scimia.exe` file.
+However, you can compile the data to a .exe file using [PyInstaller](https://www.pyinstaller.org/) or running the `compile.bat` file.
 
 The threshold is typically around `100`.
 
-## Contributing
-
-Pull requests and issues are welcome!  
-Feel free to submit any bugs you find.  
-If you want to help make this tool better, make a few commits and create a pull request.  
-Thank you! 😊
-
 ## Background
 
-"_Just made this to let my house mates not being wake up by my playing at pc._"  
-~ Novecento99
+Forked from https://github.com/Novecento99/Scimia
+
